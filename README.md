@@ -32,6 +32,5 @@ Interact with your documents like never before! **DocChat** is an AI-powered cha
 
 **Embedding Vectors in FAISS:**
 - From the 276-page PDF, only 26 embedding vectors were generated due to a chunk size of 20k. This highlights Gemini 2.0's ability to handle long-context inputs, making PDF interactions more flexible and dynamic.  
-  <img src= "photos/number_vectors.png" alt="Embedding Vectors" width="600" />
-  <img src= "photos/number_vectors.png" alt="Embedding Vectors" width="600" />
-  <img src= "photos/number_vectors.png" alt="Embedding Vectors" width="600" />
+  <img src= "photos/number_vectors.png" alt="Embedding Vectors" width="1000" />
+
