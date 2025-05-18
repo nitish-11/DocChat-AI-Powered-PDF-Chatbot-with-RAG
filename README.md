@@ -24,12 +24,14 @@ Interact with your documents like never before! **DocChat** is an AI-powered cha
 
 ---
 
-## 📸 Screenshots
+## 📸 Backend Logic
 
-| Upload & Preview | Ask Questions |
-|------------------|----------------|
-| ![upload](assets/upload_demo.png) | ![chat](assets/chat_demo.png) |
+**RAG Chatbot Flowchart:**
+- Process followed for the DocChat.  
+  <img src= "photos/systemicview_final.png" alt="Chatbot Flowchart" width="600" />
 
-> _You can add screenshots in the `assets/` folder or remove this section if not needed._
-
----
+**Embedding Vectors in FAISS:**
+- From the 276-page PDF, only 26 embedding vectors were generated due to a chunk size of 20k. This highlights Gemini 2.0's ability to handle long-context inputs, making PDF interactions more flexible and dynamic.  
+  <img src= "photos/number_vectors.png" alt="Embedding Vectors" width="600" />
+  <img src= "photos/number_vectors.png" alt="Embedding Vectors" width="600" />
+  <img src= "photos/number_vectors.png" alt="Embedding Vectors" width="600" />
