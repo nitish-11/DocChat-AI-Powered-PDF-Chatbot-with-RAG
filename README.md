@@ -8,10 +8,10 @@ Interact with your documents like never before! **DocChat** is an AI-powered cha
 
 ## ⚙️ Tech Stack
 
-- 🤖 **Google Gemini 2.0 Pro** – Delivers intelligent, context-aware responses
-- 📚 **FAISS Vector Store** – Enables efficient, high-speed document retrieval
-- 🔗 **LangChain** – Connects language models with retrieval systems seamlessly
-- 🎨 **Streamlit** – Builds an intuitive and responsive web UI
+- **Google Gemini 2.0 Pro** – Delivers intelligent, context-aware responses
+- **FAISS Vector Store** – Enables efficient, high-speed document retrieval
+- **LangChain** – Connects language models with retrieval systems seamlessly
+- **Streamlit** – Builds an intuitive and responsive web UI
 
 ---
 
